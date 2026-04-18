@@ -1,45 +1,38 @@
 <h1 align="center">Hey 👋, I'm Tarun Chand</h1>
 
 <p align="center">
-  <b>Full Stack Developer • DSA Enthusiast • System Thinker</b>
+  <b>Full Stack Developer • DSA Enthusiast • System Builder</b>
 </p>
 
 <p align="center">
-  I build things that not only work — but make sense.
+  Building real-world applications & understanding how systems work under the hood
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Strong+in+DSA+%26+Problem+Solving;Exploring+How+Systems+Work+Internally;Building+Real+World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Strong+in+DSA+%26+Problem+Solving;Exploring+System+Design;Building+End-to-End+Projects" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I’m a developer who enjoys **understanding things deeply — not just using them**.
+I’m a developer who enjoys **going beyond just making things work**.
 
-I started with frontend development, but quickly realized that I don’t just want to design interfaces —
-I want to understand **how systems actually work behind the scenes**.
+I started with frontend, but over time I became more interested in **how systems actually function internally** — which led me to build full-stack applications and even work on a **custom language compiler**.
 
-That curiosity pushed me towards:
-
-* building full-stack applications
-* solving DSA problems regularly
-* and even creating a **custom programming language compiler**
-
-I like working on problems where logic, structure, and real-world thinking come together.
+Alongside development, I consistently practice **Data Structures & Algorithms**, helping me write better, more efficient code.
 
 ---
 
-## ⚡ What I’m Doing Right Now
+## ⚡ Currently Focused On
 
-* 🔥 Solving DSA daily (LeetCode + GFG)
-* ⚙️ Building full stack applications from scratch
-* 🌱 Learning Node.js, MongoDB & backend architecture
-* ⚛️ Improving React & frontend performance
-* 🧠 Exploring system design fundamentals
+* 🔥 Daily DSA practice
+* ⚙️ Building full stack projects
+* 🌱 Learning Node.js & MongoDB
+* ⚛️ Improving React
+* 🧠 Understanding system design basics
 
 ---
 
@@ -51,79 +44,65 @@ I like working on problems where logic, structure, and real-world thinking come 
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Projects
 
 ### 🧪 Online Examination System
 
-> A complete full-stack platform for managing online exams efficiently
+Full-stack platform for managing online exams
 
-This project helped me understand how real systems handle multiple users and roles.
-
-* Role-based dashboards (Student / Teacher / Admin)
-* Exam creation, evaluation & result system
-* REST APIs for authentication & data handling
-* Clean UI focused on usability
-
-👉 Built end-to-end — from UI to backend logic
+* Role-based dashboards
+* Authentication & REST APIs
+* Result management system
+* Clean, responsive UI
 
 ---
 
-### 📧 Spam & Phishing Email Detection System
+### 📧 Email Spam & Phishing Detection
 
-> A system focused on identifying malicious emails in real time
+System to identify malicious emails
 
-This project was about solving a **real-world security problem**.
-
-* URL parsing + keyword-based detection
-* Dashboard for viewing flagged emails
-* SQLite database for managing logs
-* Simple yet effective detection logic
-
-👉 Focused on practicality over complexity
+* URL + keyword-based detection
+* Dashboard for flagged emails
+* SQLite for data storage
 
 ---
 
 ### ⚙️ Custom Language Compiler
 
-> A web-based compiler for a custom-designed programming language
+Web-based compiler for a custom language
 
-This is the project where I went beyond typical development.
-
-* Designed custom syntax and rules
+* Designed syntax & parsing logic
 * Implemented lexical & syntax analysis
-* Built parsing logic to process code
-* Translates input into structured output
-
-👉 Helped me understand how languages and compilers actually work internally
+* Processes code into structured output
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 TCS CodeVita Global Rank **1071**
-* 💡 Solved **450+ LeetCode** & **300+ GFG** problems
-* 🚀 Participated in Smart India Hackathon
+* 🥇 TCS CodeVita Rank **1071**
+* 💡 450+ LeetCode & 300+ GFG problems
+* 🚀 Smart India Hackathon Participant
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandtarun10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandtarun10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandtarun10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandtarun10&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandtarun10&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandtarun10&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/tarun-chand-9ba0b5345">LinkedIn</a> •
@@ -132,11 +111,6 @@ This is the project where I went beyond typical development.
 
 ---
 
-## ✨ A Thought I Follow
+## ✨
 
-> I don’t just want to write code —
-> I want to understand what I’m building and why it works.
-
----
-
-⭐ If you made it this far, thanks for visiting!
+> I don’t just write code — I try to understand what I’m building and why it works.
