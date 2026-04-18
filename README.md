@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
- • Building real-world systems   • Curious about how things work under the hood
+ • From frontend interfaces to backend logic — I build end-to-end systems  
+• Curious about how things work, not just how to use them
 </p>
 
 ---
