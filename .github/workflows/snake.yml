@@ -14,5 +14,5 @@ jobs:
         with:
           github_user_name: chandtarun10
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+  dist/github-snake.svg
+  dist/github-snake-dark.svg?palette=github-dark
