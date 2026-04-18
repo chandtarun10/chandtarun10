@@ -1,77 +1,83 @@
 <h1 align="center">Hey 👋, I'm Tarun Chand</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Aspiring Software Engineer</h3>
+
+<p align="center">
+  💻 Full Stack Developer • 🧠 DSA Enthusiast • ⚙️ System Builder
+</p>
+
+<p align="center">
+  🚀 Building real-world applications | Exploring how systems actually work under the hood
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-I’m a developer who enjoys building real-world applications and solving complex problems.
+I’m not just someone who builds UI — I’m someone who wants to understand **how things work internally**.
 
-I have built full-stack projects from scratch, handling everything from frontend UI to backend logic and APIs. Along with development, I actively practice Data Structures and Algorithms to improve my problem-solving skills.
+From designing frontend interfaces to implementing backend logic and even working on a **custom language compiler**, I enjoy building systems end-to-end.
 
-* 💻 Full Stack Developer (Learning & Building)
-* 🧠 Strong in DSA & Competitive Programming
-* 🎯 Targeting Internships & SDE Roles
-* 🌱 Currently learning Node.js, MongoDB & React
+I actively practice Data Structures & Algorithms to improve how I think and solve problems — not just to pass interviews, but to write better, efficient code.
 
 ---
 
 ## ⚡ What I'm Doing Right Now
 
-* 🔥 Solving DSA problems daily
-* ⚛️ Improving React skills
-* 🛠️ Building full stack projects
-* 🧠 Learning system design basics
+* 🔥 Solving DSA daily (LeetCode + GFG)
+* ⚙️ Building Full Stack applications
+* 🌱 Learning Node.js & MongoDB
+* ⚛️ Improving React
+* 🧠 Exploring system design & low-level concepts
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<p align="center">
 
-C++ | JavaScript | C
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode" />
 
-### 🎨 Frontend
-
-HTML | CSS | JavaScript | React
-
-### ⚙️ Backend
-
-Node.js | REST APIs | SQL
-
-### 🧠 Concepts
-
-Data Structures & Algorithms | DOM | Problem Solving
-
-### 🛠️ Tools
-
-Git | GitHub | VS Code
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧪 Online Examination System
 
-* Full stack web app for conducting online exams
+> A complete full-stack system for managing online exams
+
 * Role-based dashboards (Student / Teacher / Admin)
-* Authentication & REST API integration
-* Clean and responsive UI
+* Authentication & REST APIs
+* Result analysis & feedback system
+* Clean UI for real usability
 
 ---
 
-### 📧 Spam & Phishing Email Detection
+### 📧 Spam & Phishing Email Detection System
 
-* Detects malicious emails using analysis
-* URL parsing & keyword detection
+> Detects malicious emails using analysis techniques
+
+* URL parsing + keyword-based detection
 * Dashboard for flagged emails
-* SQLite database for logs
+* Real-world security-focused project
+* SQLite for data management
+
+---
+
+### ⚙️ Custom Language Compiler (🔥 Highlight Project)
+
+> Built a web-based compiler for a custom programming language
+
+* Designed custom syntax & parsing logic
+* Implemented lexical + syntax analysis
+* Converts code into executable/intermediate form
+* Demonstrates understanding of **how programming languages work internally**
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 TCS CodeVita Rank 1071
+* 🥇 TCS CodeVita Global Rank **1071**
 * 💡 450+ LeetCode & 300+ GFG problems solved
 * 🚀 Smart India Hackathon Participant
 
@@ -80,16 +86,16 @@ Git | GitHub | VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandtarun10&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandtarun10&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandtarun10&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandtarun10&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandtarun10&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandtarun10&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -103,10 +109,11 @@ Git | GitHub | VS Code
 
 ---
 
-## ✨ Personal Motto
+## ✨ Personal Thought
 
-> "Code is not just about making things work, it's about building something meaningful."
+> I don’t just want to use technology —
+> I want to understand how it works and build systems that actually matter.
 
 ---
 
-⭐️ Thanks for visiting my profile!
+⭐ If you like my work, feel free to connect!
