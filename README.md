@@ -1,85 +1,108 @@
 <h1 align="center">Hey 👋, I'm Tarun Chand</h1>
 
 <p align="center">
-  💻 Full Stack Developer • 🧠 DSA Enthusiast • ⚙️ System Builder
+  <b>Full Stack Developer • DSA Enthusiast • System Thinker</b>
 </p>
 
 <p align="center">
-  🚀 Building real-world applications | Exploring how systems actually work under the hood
+  I build things that not only work — but make sense.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Strong+in+DSA+%26+Problem+Solving;Exploring+How+Systems+Work+Internally;Building+Real+World+Applications" />
 </p>
 
 ---
 
 ## 🧠 Who Am I?
 
-I’m not just someone who builds UI — I’m someone who wants to understand **how things work internally**.
+I’m a developer who enjoys **understanding things deeply — not just using them**.
 
-From designing frontend interfaces to implementing backend logic and even working on a **custom language compiler**, I enjoy building systems end-to-end.
+I started with frontend development, but quickly realized that I don’t just want to design interfaces —
+I want to understand **how systems actually work behind the scenes**.
 
-I actively practice Data Structures & Algorithms to improve how I think and solve problems — not just to pass interviews, but to write better, efficient code.
+That curiosity pushed me towards:
+
+* building full-stack applications
+* solving DSA problems regularly
+* and even creating a **custom programming language compiler**
+
+I like working on problems where logic, structure, and real-world thinking come together.
 
 ---
 
-## ⚡ What I'm Doing Right Now
+## ⚡ What I’m Doing Right Now
 
 * 🔥 Solving DSA daily (LeetCode + GFG)
-* ⚙️ Building Full Stack applications
-* 🌱 Learning Node.js & MongoDB
-* ⚛️ Improving React
-* 🧠 Exploring system design & low-level concepts
+* ⚙️ Building full stack applications from scratch
+* 🌱 Learning Node.js, MongoDB & backend architecture
+* ⚛️ Improving React & frontend performance
+* 🧠 Exploring system design fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 ### 🧪 Online Examination System
 
-> A complete full-stack system for managing online exams
+> A complete full-stack platform for managing online exams efficiently
+
+This project helped me understand how real systems handle multiple users and roles.
 
 * Role-based dashboards (Student / Teacher / Admin)
-* Authentication & REST APIs
-* Result analysis & feedback system
-* Clean UI for real usability
+* Exam creation, evaluation & result system
+* REST APIs for authentication & data handling
+* Clean UI focused on usability
+
+👉 Built end-to-end — from UI to backend logic
 
 ---
 
 ### 📧 Spam & Phishing Email Detection System
 
-> Detects malicious emails using analysis techniques
+> A system focused on identifying malicious emails in real time
+
+This project was about solving a **real-world security problem**.
 
 * URL parsing + keyword-based detection
-* Dashboard for flagged emails
-* Real-world security-focused project
-* SQLite for data management
+* Dashboard for viewing flagged emails
+* SQLite database for managing logs
+* Simple yet effective detection logic
+
+👉 Focused on practicality over complexity
 
 ---
 
-### ⚙️ Custom Language Compiler (🔥 Highlight Project)
+### ⚙️ Custom Language Compiler
 
-> Built a web-based compiler for a custom programming language
+> A web-based compiler for a custom-designed programming language
 
-* Designed custom syntax & parsing logic
-* Implemented lexical + syntax analysis
-* Converts code into executable/intermediate form
-* Demonstrates understanding of **how programming languages work internally**
+This is the project where I went beyond typical development.
+
+* Designed custom syntax and rules
+* Implemented lexical & syntax analysis
+* Built parsing logic to process code
+* Translates input into structured output
+
+👉 Helped me understand how languages and compilers actually work internally
 
 ---
 
 ## 🏆 Achievements
 
 * 🥇 TCS CodeVita Global Rank **1071**
-* 💡 450+ LeetCode & 300+ GFG problems solved
-* 🚀 Smart India Hackathon Participant
+* 💡 Solved **450+ LeetCode** & **300+ GFG** problems
+* 🚀 Participated in Smart India Hackathon
 
 ---
 
@@ -109,11 +132,11 @@ I actively practice Data Structures & Algorithms to improve how I think and solv
 
 ---
 
-## ✨ Personal Thought
+## ✨ A Thought I Follow
 
-> I don’t just want to use technology —
-> I want to understand how it works and build systems that actually matter.
+> I don’t just want to write code —
+> I want to understand what I’m building and why it works.
 
 ---
 
-⭐ If you like my work, feel free to connect!
+⭐ If you made it this far, thanks for visiting!
