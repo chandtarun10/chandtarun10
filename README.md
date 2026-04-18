@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Developer • 🧠 DSA Focused • ⚙️ System Thinker</b>
+  <b>💻 Full Stack Developer • 🧠 DSA Focused • ⚙️ System Designer</b>
 </p>
 
 <p align="center">
@@ -33,11 +33,11 @@ Alongside development, I consistently practice **Data Structures & Algorithms** 
 
 ## 🚀 Currently Focused On
 
-* 🔥 Daily DSA practice
-* ⚙️ Building full stack systems
-* 🌱 Learning Node.js & MongoDB
-* ⚛️ Improving React
-* 🧠 Exploring system design
+🔥 Daily DSA practice
+⚙️ Building full stack systems
+🌱 Learning Node.js & MongoDB
+⚛️ Improving React
+🧠 Exploring system design
 
 ---
 
@@ -96,9 +96,9 @@ Web-based compiler for a custom language
 
 ## 🏆 Achievements
 
-* 🥇 TCS CodeVita Rank **1071**
-* 💡 Solved **450+ LeetCode** & **300+ GFG** problems
-* 🚀 Smart India Hackathon Participant
+🥇 TCS CodeVita Rank **1071**
+💡 Solved **450+ LeetCode** & **300+ GFG** problems
+🚀 Smart India Hackathon Participant
 
 ---
 
