@@ -10,6 +10,9 @@
 
 <p align="center">
  • From frontend interfaces to backend logic — I build end-to-end systems  
+</p>
+
+<p align="center">
 • Curious about how things work, not just how to use them
 </p>
 
