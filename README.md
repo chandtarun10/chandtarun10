@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Developer • 🧠 DSA Focused • ⚙️ System Designer</b>
+  <b>💻 Full Stack Developer  🧠 DSA Focused  ⚙️ System Designer</b>
 </p>
 
 <p align="center">
-  Building real-world systems • Curious about how things work under the hood
+ • Building real-world systems • Curious about how things work under the hood
 </p>
 
 ---
