@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- • Building real-world systems • Curious about how things work under the hood
+ • Building real-world systems   • Curious about how things work under the hood
 </p>
 
 ---
