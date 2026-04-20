@@ -5,62 +5,60 @@
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Developer  🧠 DSA Focused  ⚙️ System Designer</b>
+  <b>🎯 Frontend Developer • 🧠 Problem Solver • ⚙️ System Curious</b>
 </p>
 
 <p align="center">
-  • Curious about how things work, not just how to use them 
+  Crafting clean user experiences while understanding what powers them underneath
 </p>
 
 <p align="center">
-• From frontend interfaces to backend logic — I build end-to-end systems 
+  • Building intuitive interfaces that actually make sense  
+  • Curious about how systems work beyond just the UI  
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Strong+in+DSA+%26+Problem+Solving;Exploring+System+Design;Building+End-to-End+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Strong+in+DSA+%26+Problem+Solving;Learning+Backend+%26+System+Design;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a developer who enjoys **going beyond just making things work**.
+I’m a frontend-focused developer who enjoys **building clean, intuitive, and user-friendly interfaces**.
 
-I started with frontend, but gradually moved towards **full-stack development and system-level thinking**.
-That curiosity pushed me to build complete applications and even work on a **custom programming language compiler**.
+While my journey started with UI development, I’ve gradually moved towards understanding **how applications work as complete systems** — which led me to explore backend fundamentals and even build a **custom programming language compiler**.
 
-Alongside development, I consistently practice **Data Structures & Algorithms** to improve how I think and solve problems.
+I actively practice **Data Structures & Algorithms**, which helps me think logically and write efficient code — not just for interviews, but for building better applications.
 
 ---
 
 ## 🚀 Currently Focused On
 
-🔥 Daily DSA practice
-⚙️ Building full stack systems
-🌱 Learning Node.js & MongoDB
-⚛️ Improving React
-🧠 Exploring system design
+* 🎯 Building responsive and clean frontend applications
+* ⚛️ Improving React and UI performance
+* 🌱 Learning backend fundamentals (Node.js, APIs)
+* 🧠 Strengthening DSA and problem-solving skills
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 </p>
-
 
 ---
 
@@ -68,41 +66,42 @@ Alongside development, I consistently practice **Data Structures & Algorithms** 
 
 ### 🧪 Online Examination System
 
-Full-stack platform for managing online exams
+A responsive web application designed for smooth and intuitive exam experiences
 
-* Role-based dashboards
-* Authentication & REST APIs
-* Result & evaluation system
-* Clean, responsive UI
+* Clean and user-friendly interface
+* Role-based dashboards (Student / Teacher / Admin)
+* Integrated APIs for authentication & data handling
+* Focused on usability and structured UI
 
 ---
 
 ### 📧 Email Spam & Phishing Detection
 
-System to identify malicious emails
+A frontend-driven system with real-time feedback and clear visualization
 
-* URL + keyword-based detection
+* Interactive UI for scanning and displaying results
+* URL and keyword-based detection logic
 * Dashboard for flagged emails
-* SQLite-based logging
+* Designed for clarity and ease of use
 
 ---
 
 ### ⚙️ Custom Language Compiler
 
-Web-based compiler for a custom language
+A project that reflects my interest in understanding systems beyond UI
 
-* Designed syntax & grammar
+* Built a web interface for custom language execution
 * Implemented lexical & syntax analysis
-* Built parsing logic
-* Converts code into structured output
+* Designed structured parsing logic
+* Explored how programming languages actually work
 
 ---
 
 ## 🏆 Achievements
 
-🥇 TCS CodeVita Rank **1071**
-💡 Solved **450+ LeetCode** & **300+ GFG** problems
-🚀 Smart India Hackathon Participant
+* 🥇 TCS CodeVita Global Rank **1071**
+* 💡 Solved **450+ LeetCode** & **300+ GFG** problems
+* 🚀 Smart India Hackathon Participant
 
 ---
 
@@ -143,7 +142,7 @@ Web-based compiler for a custom language
 
 ## ✨
 
-> I don’t just write code — I try to understand what I’m building and why it works.
+> I build interfaces that feel simple — and systems that make sense behind them.
 
 ---
 
